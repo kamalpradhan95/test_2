@@ -1,1 +1,2 @@
 PUSH 1
+PUSH 2
